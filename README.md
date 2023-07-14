@@ -1,1 +1,3 @@
 # URL_Shortener_Using_python
+
+URL Shortener is a Python-based application that allows users to shorten long URLs into concise and manageable links. This application utilizes the power of Python's programming capabilities to generate shortened URLs, making them more user-friendly and easier to share. With the URL Shortener, users can input a lengthy URL and receive a shortened version that redirects to the original website when clicked. This tool is designed to simplify the sharing process on platforms with character limitations, such as social media platforms or messaging services. By leveraging Python's simplicity and efficiency, the URL Shortener provides a convenient solution for condensing URLs and improving accessibility.
